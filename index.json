@@ -1,4 +1,13 @@
 {
   "_": "Beach index. Machine-readable listing of all published passports.",
-  "entities": []
+  "entities": [
+    {
+      "name": "hc-first",
+      "species": "tenant",
+      "generation": "G1",
+      "home": "https://raw.githubusercontent.com/beach-commons/pscale-commons/main/instances/hc-first/",
+      "passport": "https://raw.githubusercontent.com/beach-commons/beach/main/passports/hc-first.json",
+      "registered": "2026-03-01"
+    }
+  ]
 }
